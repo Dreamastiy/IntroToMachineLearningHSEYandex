@@ -1,5 +1,5 @@
-# Введение в машинное обучение
-### ipython notebooks с курса "Введение в машинное обучение" на Coursera от Yandex и ВШЭ
+# Introduction to machine learning
+### ipython notebooks from Intro2ML Coursera course by HSE and Yandex
 
 * `Abalone.ipynb` - predicting abalone age using RandomForestRegressor
 * `BiologicalResponse.ipynb` - relating molecular information, to an actual biological response using GradientBoostingClassifier and comparing it to RandomForestClassifier

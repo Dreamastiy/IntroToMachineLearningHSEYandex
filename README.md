@@ -8,6 +8,7 @@
 * `IntroToDM-L1.ipynb` - first steps in python
 * `LMSalariesCV.ipynb` - predicting salary using vacancy description and linear model regression
 * `LogisticGradientDescent.ipynb` - realisation of gradient descent to logistic regression model
+* `Parrots.ipynb` - K-means with different number of clusters on parrots' image
 * `Perceptrone.ipynb` - comparing perceptrone model with and without features normalization
 * `SVM-textAnalysis.ipynb` - defining topics of texts using support vectors machine
 * `SVM-vectors.ipynb` - get support vectors objects from data

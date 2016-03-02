@@ -1,6 +1,7 @@
 # Introduction to machine learning
 ### ipython notebooks from Intro2ML Coursera course by HSE and Yandex
 
+* `!DotaWinner.ipynb` - predicting which team will win in DOTA, using logistic regression and gradient boosting classifiers
 * `Abalone.ipynb` - predicting abalone age using RandomForestRegressor
 * `BiologicalResponse.ipynb` - relating molecular information, to an actual biological response using GradientBoostingClassifier and comparing it to RandomForestClassifier
 * `ClassificationMetrics.ipynb` - comparing different classification metrics on test dataset
